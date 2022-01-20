@@ -23,7 +23,7 @@ Clone the repository, run `npm install` to install the dependencies, and `npm st
 
 You can access the application deployed live on Heroku here: https://text-editor-cjh.herokuapp.com/
 
-You can also view a walkthrough video of the app's functionality, including showing the manifest, custom service worker, IndexedDB database, and PWA installation, below:
+You can also view a walkthrough video of the app's functionality, including showing the manifest, custom service worker, IndexedDB database, and PWA installation, below or by clicking [here](https://drive.google.com/drive/folders/1g_GuY3b8r6dK6_ngzfhyN7M6II-bwojZ?usp=sharing)
 
 ![App functionality](./images/TextEditor.gif)
 
