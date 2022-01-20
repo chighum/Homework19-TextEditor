@@ -22,10 +22,12 @@ module.exports = () => {
         template: "./index.html",
         title: "JATE",
       }),
+      // injects our custom service work from src-sw.js
       new InjectManifest({
         swSrc: "./src-sw.js",
         swDest: "src-sw.js",
       }),
+      // creates a manifest.json file
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
